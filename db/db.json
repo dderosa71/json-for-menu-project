@@ -1,0 +1,22 @@
+{
+  "Dinner": [
+    {
+      "id": 1,
+      "name": "Chicken Parm is tasty",
+      "description": "chicklen, sauce, cheese",
+      "price": "24"
+    },
+    {
+      "id": 4,
+      "name": "Cheeseburger",
+      "description": "meat, bacon, cheese, bread",
+      "price": 14
+    },
+    {
+      "name": "pizza",
+      "description": "extra cheese",
+      "price": "10",
+      "id": 5
+    }
+  ]
+}

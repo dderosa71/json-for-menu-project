@@ -1,0 +1,16 @@
+{
+  "Dinner": [
+    {
+      "id": 1,
+      "name": "Chicken Parm",
+      "description": "chicklen, sauce, cheese",
+      "price": 22
+    },
+    {
+      "id": 4,
+      "name": "Cheeseburger",
+      "description": "meat, bacon, cheese, bread",
+      "price": 14
+    }
+  ]
+}
